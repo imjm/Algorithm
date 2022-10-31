@@ -1,1 +1,13 @@
-### [백준](https://www.acmicpc.net/) 문제 연습
+## Python을 통한 algorithm 풀이
+
+### 두 개 입력 받기
+
+<pre><code>
+a, b = map(int, input().split())
+</code></pre>
+
+### 출력 제어
+
+<pre><code>
+print(some's, end='')
+</code></pre>
